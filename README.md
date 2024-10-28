@@ -23,7 +23,7 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone [https://github.com/Mohammed-abdulaziz-eisa/FileContentsExtractor.git](https://github.com/Mohammed-abdulaziz-eisa/FileContentsExtractor.git)
+   git clone https://github.com/Mohammed-abdulaziz-eisa/FileContentsExtractor.git
    ```
 
 2. Navigate to the cloned repository:
